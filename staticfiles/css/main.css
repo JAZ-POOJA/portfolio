@@ -1,0 +1,26 @@
+
+body{
+	background-color:#F0D9FF!important;
+}
+
+#profile-wrapper{
+	text-align: center;
+	
+}
+
+
+  
+  /* Clear floats after the columns */
+  
+
+.details{
+	list-style-type:square;
+	
+}
+
+.social-links  {
+	list-style-type:circle;
+	display: inline-block;
+	
+}
+
